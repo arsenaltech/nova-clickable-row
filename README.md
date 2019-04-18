@@ -7,7 +7,7 @@ on resource table rows in Laravel Nova.
 
 From your project's folder run:
 ```
-composer require ryanw3b3r/nova-clickable-row
+composer require arsenaltech/nova-clickable-row
 ```
 
 ## Customization
