@@ -1,5 +1,5 @@
 {
-    "name": "ryanw3b3r/nova-clickable-row",
+    "name": "arsenaltech/nova-clickable-row",
     "description": "A Laravel Nova clickable row.",
     "keywords": [
         "laravel",
@@ -8,8 +8,8 @@
     ],
 	"authors": [
 		{
-			"name": "Ryan Weber",
-			"email": "ryan@picoprime.com",
+			"name": "S B",
+			"email": "shabbir@arsenaltech.com",
 			"role": "Developer"
 		}
 	],
